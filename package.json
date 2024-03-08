@@ -1,12 +1,12 @@
 {
-  "name": "thenable",
+  "name": "beolozne",
   "version": "1.0.0",
   "description": "Wrap and unwrap thenables so that you can pass them through promises",
   "main": "index.js",
   "scripts": {
     "test": "mocha -R spec"
   },
-  "repository": { "type": "git", "url": "https://github.com/then/thenable.git" },
+  "repository": { "type": "git", "url": "https://github.com/beolozne/thenable.git" },
   "keywords": [ "promise", "then", "thenable", "wrap", "unwrap" ],
   "author": "ForbesLindesay",
   "license": "MIT",
